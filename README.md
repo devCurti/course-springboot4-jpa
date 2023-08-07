@@ -28,8 +28,8 @@ It consists of an application, where an H2 database is used for the application 
  
 
 # Technologies used
-## Internal process
--Java
+## Back-End
+- Java
 - Spring boot
 - JPA / Hibernation
 - Specialist
