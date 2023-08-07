@@ -14,3 +14,22 @@ Consiste em uma aplicação, onde é utilizado um banco de dados H2 para a aplic
 - Spring Boot
 - JPA / Hibernate
 - Maven
+
+------------------------------------------------------------------------------------
+
+# WebServices project with Springboot and JPA / Hibernate
+
+
+# About the project
+
+The project was done as a study, by the course Java COMPLETO 2023 Object-Oriented Programming + Projects, by Professor Nelio Alves.
+
+It consists of an application, where an H2 database is used for the application of knowledge in JPA and SpringBoot.
+ 
+
+# Technologies used
+## Internal process
+-Java
+- Spring boot
+- JPA / Hibernation
+- Specialist
