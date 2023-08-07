@@ -95,5 +95,9 @@ public class OrderItem implements Serializable{
 				&& Objects.equals(quantity, other.quantity);
 	}
 	
+	public Double getSubTotal() {
+		return price * quantity;
+	}
+	
 	
 }
